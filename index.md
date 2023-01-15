@@ -1,4 +1,4 @@
-# <Taylor Huang>'s First CS193 Homework
+# Taylor Huang's First CS193 Homework
   
 ## Favorite things about CS193
   - There is no midterms and final
