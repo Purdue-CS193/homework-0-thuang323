@@ -1,11 +1,13 @@
-# Taylor Huang's First CS193 Homework
-  
+# ***Taylor Huang's*** First CS193 Homework
+
+
 ## Favorite things about CS193
   - There is no midterms and final
   - Not having too much homework
   - Only two classes a week
   - Learning terminal might be useful
   - It'll be an easy A course
+
 
 ## Welcome to GitHub Pages
 
