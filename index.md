@@ -6,7 +6,6 @@
   - Not having too much homework
   - Only two classes a week
   - Learning terminal might be useful
-  - It'll be an easy A course
 
 
 ## Welcome to GitHub Pages
